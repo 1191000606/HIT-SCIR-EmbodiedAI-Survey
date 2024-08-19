@@ -5,6 +5,91 @@
 ## Embodied Perception
 
 ### Object Perception
+#### geometric shape
+- Captra: Category-level pose tracking for rigid and articulated objects from point clouds
+- 6dof pose estimation of transparent object from a single rgb-d image
+- A Comprehensive Review on 3D Object Detection and 6D Pose Estimation With Deep Learning 
+- Vision-based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review
+- ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics
+- Deep learning for 3d point clouds: A survey
+- Pointnet: Deep learning on point sets for 3d classification and segmentation
+- Pointnet++: Deep hierarchical feature learning on point sets in a metric space
+- Meshnet: Mesh neural network for 3d shape representation
+- Voxelnet: End-to-end learning for point cloud based 3d object detection
+- Deep learning on point clouds and its application: A survey
+- 3D point cloud compression: A survey
+- Deep convolutional compressed sensing for lidar depth completion
+- Octree-based Point-Cloud Compression.
+- 3d mesh compression: Survey, comparisons, and emerging trends
+- Voxel-based representation of 3D point clouds: Methods, applications, and its potential use in the construction industry
+- Distance measurement system based on binocular stereo vision
+- Accurate depth map estimation from a lenslet light field camera
+- Time-of-flight cameras: principles, methods and applications
+- DIO: Dataset of 3D Mesh Models of Indoor Objects for Robotics and Computer Vision Applications
+- Interiornet: Mega-scale multi-sensor photo-realistic indoor scenes dataset
+- The digital Michelangelo project: 3D scanning of large statues
+- Habitat 2.0: Training home assistants to rearrange their habitat
+- Nerf: Representing scenes as neural radiance fields for view synthesis
+- Voxel transformer for 3d object detection
+- Shapenet: An information-rich 3d model repository
+- Benchmarking in manipulation research: Using the Yale-CMU-Berkeley object and model set
+- The kit object models database: An object model database for object recognition, localization and manipulation in service robotics
+- Google scanned objects: A high-quality dataset of 3d scanned household items
+- Omniobject3d: Large-vocabulary 3d object dataset for realistic perception, reconstruction and generation
+- An overview of 3D object grasp synthesis algorithms
+- Model-based recognition in robot vision
+- Learning 6-dof grasping interaction via deep geometry-aware 3d representations
+- Anygrasp: Robust and efficient grasp perception in spatial and temporal domains
+- Synergies between affordance and geometry: 6-dof grasp detection via implicit representations
+- Gvcnn: Group-view convolutional neural networks for 3d shape recognition
+- Deepsdf: Learning continuous signed distance functions for shape representation
+- Occupancy networks: Learning 3d reconstruction in function space
+- Point-voxel cnn for efficient 3d deep learning
+- 6D object position estimation from 2D images: A literature review
+- A survey of 6dof object pose estimation methods for different application scenarios
+- Normalized object coordinate space for category-level 6d object pose and size estimation
+- Foundationpose: Unified 6d pose estimation and tracking of novel objects
+- Dex-net 2.0: Deep learning to plan robust grasps with synthetic point clouds and analytic grasp metrics
+- Real-world multiobject, multigrasp detection
+- Closing the loop for robotic grasping: A real-time, generative grasp synthesis approach
+- Graspnerf: Multiview-based 6-dof grasp detection for transparent and specular objects using generalizable nerf
+- Copa: General robotic manipulation through spatial constraints of parts with foundation models
+- Graspnet-1billion: A large-scale benchmark for general object grasping
+#### Articulated structure
+- Survey on Modeling of Articulated Objects
+- Akb-48: A real-world articulated object knowledge base
+- Partnet: A large-scale benchmark for fine-grained and hierarchical part-level 3d object understanding
+- Mimicgen: A data generation system for scalable robot learning using human demonstrations
+- Category-level articulated object pose estimation
+- Mobility-trees for indoor scenes manipulation
+- Carto: Category and joint agnostic reconstruction of articulated objects
+- Learning to manipulate articulated objects in unstructured environments using a grounded relational representation
+- Sagci-system: Towards sample-efficient, generalizable, compositional, and incremental robot learning
+- Shape2motion: Joint analysis of motion parts and attributes from 3d shapes
+- GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts 
+- Sapien: A simulated part-based interactive environment
+- CAGE: Controllable Articulation GEneration
+- Normalized object coordinate space for category-level 6d object pose and size estimation
+- Self-supervised neural articulated shape and appearance models
+- Ditto: Building digital twins of articulated objects from interaction
+- Ditto in the house: Building articulation models of indoor scenes through interactive perception
+- Where2act: From pixels to actions for articulated 3d objects
+- Manipllm: Embodied multimodal large language model for object-centric robotic manipulation
+#### physical properties
+- Akb-48: A real-world articulated object knowledge base
+- Visuotactile sensors with emphasis on gelsight sensor: A review
+- A novel six-axis force/torque sensor for robotic applications
+- A novel accurate positioning method for object pose estimation in robotic manipulation based on vision and tactile sensors
+- Six-axis force/torque sensors for robotics applications: A review
+- Thermal cameras and applications: a survey
+- Imagebind: One embedding space to bind them all
+- Languagebind: Extending video-language pretraining to n-modality by language-based semantic alignment
+- Tactile-rl for insertion: Generalization to objects of unknown geometry
+- Precise robotic needle-threading with tactile perception and reinforcement learning
+- See, hear, and feel: Smart sensory fusion for robotic manipulation
+- Active 3D shape reconstruction from vision and touch
+- Visual-tactile sensing for in-hand object reconstruction
+
 
 ### Scene Perception
 
