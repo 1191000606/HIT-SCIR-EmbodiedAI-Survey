@@ -296,6 +296,22 @@
 
 Embodied QA
 
+* A Survey of Embodied **AI** **: From Simulators to Research Tasks**
+
+#### Presentation of EQA tasks 
+* Embodied Question Answering
+  
+#### Methodological innovation
+* Robust-EQA: Robust Learning for Embodied Question Answering With Noisy Labels
+* Walking with MIND: Mental Imagery eNhanceD Embodied QA
+* Embodied Multimodal Multitask Learning
+
+#### Task innovation
+* Multi-Target Embodied Question Answering
+* Knowledge-based Embodied Question Answering
+* Multi-agent Embodied Question Answering in Interactive Environments
+* Blindfold Baselines for Embodied QA
+  
 ## Embodied Execution
 
 ### Imitation Learning
