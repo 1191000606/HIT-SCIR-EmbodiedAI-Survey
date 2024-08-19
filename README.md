@@ -7,9 +7,10 @@
 ### Object Perception
 
 ### Scene Perception
-Scene-aware learning network for radar object detection
 
-An ego-motion estimation method using millimeter-wave radar in 3D scene reconstruction
+- Scene-aware learning network for radar object detection
+
+- An ego-motion estimation method using millimeter-wave radar in 3D scene reconstruction
 
 A quality improvement method for 3D laser slam point clouds based on geometric primitives of the scan scene
 
