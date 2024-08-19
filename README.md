@@ -8,137 +8,184 @@
 
 ### Scene Perception
 
+#### Information Acquisition and Composition
+
+**Primary sources: visual, laser, and radar**
+
 - Scene-aware learning network for radar object detection
 
 - An ego-motion estimation method using millimeter-wave radar in 3D scene reconstruction
 
-A quality improvement method for 3D laser slam point clouds based on geometric primitives of the scan scene
+- A quality improvement method for 3D laser slam point clouds based on geometric primitives of the scan scene
 
-Multi-modal data-efficient 3d scene understanding for autonomous driving
+- Multi-modal data-efficient 3d scene understanding for autonomous driving
 
-Sporadic Audio-Visual Embodied Assistive Robot Navigation For Human Tracking
+**Alternative scene information sources**
 
-Look, listen, and act: Towards audio-visual embodied navigation
+- Sporadic Audio-Visual Embodied Assistive Robot Navigation For Human Tracking
 
-StereoTac: A novel visuotactile sensor that combines tactile sensing with 3D vision
+- Look, listen, and act: Towards audio-visual embodied navigation
 
-Omnitact: A multi-directional high-resolution touch sensor
+- StereoTac: A novel visuotactile sensor that combines tactile sensing with 3D vision
 
-Co-operative smell-based navigation for mobile robots
+- Omnitact: A multi-directional high-resolution touch sensor
 
-Chemical sensing at the robot fingertips: Toward automated taste discrimination in food samples
+- Co-operative smell-based navigation for mobile robots
 
-Scene recognition with infra-red, low-light, and sensor fused imagery
+- Chemical sensing at the robot fingertips: Toward automated taste discrimination in food samples
 
-Firefighting robot stereo infrared vision and radar sensor fusion for imaging through smoke
+- Scene recognition with infra-red, low-light, and sensor fused imagery
 
-Seeing Nearby 3D Scenes using Ultrasonic Sensors
+- Firefighting robot stereo infrared vision and radar sensor fusion for imaging through smoke
 
-Indoor 3D reconstruction using camera, IMU and ultrasonic sensors
+- Seeing Nearby 3D Scenes using Ultrasonic Sensors
 
-Simultaneous localization and mapping: part I
+- Indoor 3D reconstruction using camera, IMU and ultrasonic sensors
 
-Visual SLAM algorithms: A survey from 2010 to 2016
+**Composition of scene information**
 
-A survey of state-of-the-art on visual SLAM
+#### Scene reconstruction
 
-A comprehensive survey of visual slam algorithms
+- Simultaneous localization and mapping: part I
 
-An overview on visual slam: From tradition to semantic
+- Visual SLAM algorithms: A survey from 2010 to 2016
 
-Learning the next best view for 3d point clouds via topological features
+##### New Methods
 
-Bag of views: An appearance-based approach to next-best-view planning for 3d reconstruction
+- Toward geometric deep slam
 
-Object-aware guidance for autonomous scene reconstruction
+- Cnn-slam: Real-time dense monocular slam with learned depth prediction
 
-Multi-robot collaborative dense scene reconstruction
+- Undeepvo: Monocular visual odometry through
 
-Extended Kalman filter-based mobile robot localization with intermittent measurements
+- A survey of state-of-the-art on visual SLAM
 
-Markov localization for mobile robots in dynamic environments
+- A comprehensive survey of visual slam algorithms
 
-Monte carlo localization for mobile robots
+- An overview on visual slam: From tradition to semantic
 
-Active neural localization
+##### New Task
 
-Deep active localization
+**Active Mapping**
 
-Active SLAM with prior topo-metric graph starting at uncertain position
+- Learning the next best view for 3d point clouds via topological features
 
-Enabling topological planning with monocular vision
+- Bag of views: An appearance-based approach to next-best-view planning for 3d reconstruction
 
-Neural topological slam for visual navigation
+- Object-aware guidance for autonomous scene reconstruction
 
-A survey on 3d scene graphs: Definition, generation and application
+- Multi-robot collaborative dense scene reconstruction
 
-A comprehensive survey of scene graphs: Generation and application
+**Active Localization**
 
-Efficient inference in fully connected crfs with gaussian edge potentials
+- Extended Kalman filter-based mobile robot localization with intermittent measurements
 
-Translating embeddings for modeling multi-relational data
+- Markov localization for mobile robots in dynamic environments
 
-Vip-cnn: Visual phrase guided convolutional neural network
+- Monte carlo localization for mobile robots
 
-Towards context-aware interaction recognition for visual relationship detection
+- Active neural localization
 
-Motifnet: a motif-based graph convolutional network for directed graphs
+- Deep active localization
 
-Local implicit grid representations for 3d scenes
+- Active SLAM with prior topo-metric graph starting at uncertain position
 
-In-place scene labelling and understanding with implicit scene representation
+##### New representation
 
-DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes
+**Topological models**
 
-SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization
+- Enabling topological planning with monocular vision
 
-Understanding scene understanding
+- Neural topological slam for visual navigation
 
-You only look once: Unified, real-time object detection
+**Scene graphs**
 
-Mask r-cnn
+- A survey on 3d scene graphs: Definition, generation and application
 
-Deep residual learning for image recognition
+- A comprehensive survey of scene graphs: Generation and application
 
-Learning instance segmentation by interaction
+- Efficient inference in fully connected crfs with gaussian edge potentials
 
-Skin-inspired quadruple tactile sensors integrated on a robot hand enable object recognition
+- Translating embeddings for modeling multi-relational data
 
-Self-supervised unseen object instance segmentation via long-term robot interaction
+- Vip-cnn: Visual phrase guided convolutional neural network
 
-Move to see better: Self-improving embodied object detection
+- Towards context-aware interaction recognition for visual relationship detection
 
-Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations
+- Motifnet: a motif-based graph convolutional network for directed graphs
 
-Self-supervised pre-training for semantic segmentation in an indoor scene
 
-Visual relationship detection with visual-linguistic knowledge from multimodal representations
 
-Sornet: Spatial object-centric representations for sequential manipulation
+- Local implicit grid representations for 3d scenes
 
-Rel3d: A minimally contrastive benchmark for grounding spatial relations in 3d
+- In-place scene labelling and understanding with implicit scene representation
 
-Spatialsense: An adversarially crowdsourced benchmark for spatial relation recognition
+- DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes
 
-The open images dataset v4: Unified image classification, object detection, and visual relationship detection at scale
+- SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization
 
-The robotic vision scene understanding challenge
+#### Scene Understanding
 
-Changesim: Towards end-to-end online scene change detection in industrial indoor environments
+- Understanding scene understanding
 
-Cdnet++: Improved change detection with deep neural network feature correlation
+##### Object recognition (segmentation, detection)
 
-Weakly supervised silhouette-based semantic scene change detection
+- You only look once: Unified, real-time object detection
 
-Continuous scene representations for embodied ai
+- Mask r-cnn
 
-Object-level change detection with a dual correlation attention-guided detector
+- Deep residual learning for image recognition
 
-3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans
+**Physical interactions**
 
-Kimera: From SLAM to spatial perception with 3D dynamic scene graphs
+- Learning instance segmentation by interaction
 
-4d panoptic scene graph generation
+- Skin-inspired quadruple tactile sensors integrated on a robot hand enable object recognition
+
+- Self-supervised unseen object instance segmentation via long-term robot interaction
+
+**Change viewpoints**
+
+- Move to see better: Self-improving embodied object detection
+
+- Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations
+
+**Multi-perspective consistent detection**
+
+- Self-supervised pre-training for semantic segmentation in an indoor scene
+
+##### Spatial Relationship Reasoning
+
+- Visual relationship detection with visual-linguistic knowledge from multimodal representations
+
+- Sornet: Spatial object-centric representations for sequential manipulation
+
+- Rel3d: A minimally contrastive benchmark for grounding spatial relations in 3d
+
+- Spatialsense: An adversarially crowdsourced benchmark for spatial relation recognition
+
+- The open images dataset v4: Unified image classification, object detection, and visual relationship detection at scale
+
+##### Temporal Change Detection
+
+- The robotic vision scene understanding challenge
+
+- Changesim: Towards end-to-end online scene change detection in industrial indoor environments
+
+- Cdnet++: Improved change detection with deep neural network feature correlation
+
+- Weakly supervised silhouette-based semantic scene change detection
+
+- Continuous scene representations for embodied ai
+
+- Object-level change detection with a dual correlation attention-guided detector
+
+- 3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans
+
+- Kimera: From SLAM to spatial perception with 3D dynamic scene graphs
+
+- 4d panoptic scene graph generation
+
 ### Behavior Perception
 
 ### Expression Perception
