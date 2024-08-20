@@ -247,6 +247,82 @@
 
 ### Task planning
 
+- (2013.8) Integrated task and motion planning in belief space
+- (2014) Combined task and motion planning through an extensible planner-independent interface layer
+
+#### Rule based Task Planning
+
+- (1971) STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving
+- (1991) PRODIGY: an integrated architecture for planning and learning
+- (2001.6) Planning as heuristic search
+- (2002) LPG: A Planner Based on Local Search for Planning Graphs with Action Costs
+- (2006) The Fast Downward Planning System
+- (2011) Hierarchical task and motion planning in the now
+- (1994) HTN planning: Complexity and expressivity
+- (1970) GPS and Decision Making: An Overview
+- (2003) SHOP2: An HTN Planning System
+- (2012) A survey of the seventh international planning competition
+- (2000) The 1998 AI Planning Systems Competition
+- (2006) Plan Constraints and Preferences in PDDL3
+- (1998) PDDL-the planning domain definition language
+- (2003) PDDL2.1: An Extension to PDDL for Expressing Temporal Planning Domains
+- (2005) Temporal planning in terms of a fuzzy integral logic (FLI) versus temporal planning in PDDL
+- (2019) Improving planning performance in PDDL+ domains via automated predicate reformulation
+- (2007) The First Answer Set Programming System Competition
+- (2008) What Is Answer Set Programming?
+- (2018) Applications of ASP in Robotics  
+- (2014) Planning in Answer Set Programming while Learning Action Costs for Mobile Robots
+- (2018) Task planning in robotics: an empirical comparison of PDDL- and ASP-based systems
+
+#### Deep learning based Task Planning
+
+- (2019) Regression Planning Networks
+- (2020) Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs
+- (2018) Relational inductive bias for physical construction in humans and machines
+- (2023) Long-term robot manipulation task planning with scene graph and semantic knowledge
+- (2022) PDSketch: Integrated domain programming, learning, and planning
+
+#### LLM combined Task Planning
+
+##### LLM as converter
+
+- (2023) LLM+P: Empowering Large Language Models with Optimal Planning Proficiency
+- (2023) ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning
+- (2023) GRID: Scene-Graph-based Instruction-driven Robotic Task Planning
+
+##### LLM as planner
+
+- (2023) Embodied Task Planning with Large Language Models
+- (2023) Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model
+- (2023) Lifelong Robot Learning with Human Assisted Language Planners
+- (2023) ProgPrompt: program generation for situated robot task planning using large language models
+- (2023) ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application
+- (2023) PaLM-E: An Embodied Multimodal Language Model
+- (2024) CogVLM: Visual Expert for Pretrained Language Models
+- (2024) Large Language Models for Robotics: Opportunities, Challenges, and Perspectives
+- (2024) GPT-4V(ision) System Card
+- (2024) LLaRA: Supercharging Robot Learning Data for Vision-Language Policy
+- (2022) ReAct: Synergizing Reasoning and Acting in Language Models
+- (2023) Reflexion: an autonomous agent with dynamic memory and self-reflection   
+- (2023) SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks
+
+##### Challenges
+
+- (2022) Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+
+##### Infomation types
+
+- (2023) Interactive Task Planning with Language Models
+- (2022) Inner Monologue: Embodied Reasoning through Planning with Language Models
+- (2023) Reflexion: an autonomous agent with dynamic memory and self-reflection
+
+#### Evaluation
+ 
+- (2023) EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning
+- (2021) BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments
+- (2020) Watch-and-help: A challenge for social perception and human-ai collaboration
+- (2020.6) ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
+
 ### Navigation
 
 * A Survey of Embodied **AI** **: From Simulators to Research Tasks**
