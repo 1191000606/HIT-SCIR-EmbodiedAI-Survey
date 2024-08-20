@@ -217,28 +217,26 @@
 
 ### Behavior Perception
 
+- Multi-view hand gesture recognition via pareto optimal front
+- Hand segmentation from complex background for gesture recognition
+- Dynamic hand gesture recognition using vision-based approach for human--computer interaction
+- Teaching a robot sign language using vision-based hand gesture recognition
+- Hand gesture recognition using DWT and F-ratio based feature descriptor
+- DirectPose: Direct End-to-End Multi-Person Pose Estimation
+- Predicting pedestrian crossing intention with feature fusion and spatio-temporal attention
+- Hand gesture recognition using multimodal data fusion and multiscale parallel convolutional neural network for human--robot interaction
 - Hake: a knowledge engine foundation for human activity understanding
-- Transferable interactiveness knowledge for human-object interaction detection
-- Human motion understanding for selecting action timing in collaborative human-robot interaction
 - Motiongpt: Human motion as a foreign language
 - MotionLLM: Understanding Human Behaviors from Human Motions and Videos
 
 ### Expression Perception
 
-- Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements
-- Attention mechanism-based CNN for facial expression recognition
-- Distract your attention: Multi-head cross attention network for facial expression recognition
 - Region attention networks for pose and occlusion robust facial expression recognition
 - Facial expression recognition in the wild using multi-level features and attention mechanisms
-- Facial expression recognition with visual transformers and attentional selective fusion
 - Edge-AI-driven framework with efficient mobile network design for facial expression recognition
 - Two-layer fuzzy multiple random forest for speech emotion recognition in human-robot interaction
-- Speech emotion recognition in emotional feedbackfor human-robot interaction
-- Feature vector classification based speech emotion recognition for service robots
 - Deep-emotion: Facial expression recognition using attentional convolutional network
 - Perspective-corrected spatial referring expression generation for human--robot interaction
-- Efficient, situated and ontology based referring expression generation for human-robot collaboration
-- Toward forgetting-sensitive referring expression generationfor integrated robot architectures
 - Mattnet: Modular attention network for referring expression comprehension
 - Dynamic graph attention for referring expression comprehension
 - Transvg++: End-to-end visual grounding with language conditioned vision transformer
