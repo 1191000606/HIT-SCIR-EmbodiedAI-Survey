@@ -390,6 +390,49 @@ Embodied QA
 
 ### Imitation Learning
 
+#### Behavior Cloning
+- Alvinn: An autonomous land vehicle in a neural network
+- Efficient training of artificial neural networks for autonomous navigation
+
+#### Implicit Behavior Cloning
+- Implicit behavioral cloning
+
+#### Diffusion policy
+- Diffusion policy: Visuomotor policy learning via action diffusion
+
+#### K-Nearest Neighbors Based Locally Weighted Regression
+- The surprising effectiveness of representation learning for visual imitation
+
 ### Reinforcement Learning
 
 ### Future Direction
+
+#### Data
+
+##### Large-scale Manually Collected Data
+- iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks
+- Open x-embodiment: Robotic learning datasets and rt-x models
+- Octo: An open-source generalist robot policy
+- OpenVLA: An Open-Source Vision-Language-Action Model
+
+##### Automatically Constructed Data
+- Graspnerf: Multiview-based 6-dof grasp detection for transparent and specular objects using generalizable nerf
+- RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
+- Manipulate-Anything: Automating Real-World Robots using Vision-Language Models
+
+##### Unlabeled Data
+- VideoDex: Learning Dexterity from Internet Videos
+- DexMV: Imitation Learning for Dexterous Manipulation from Human Videos
+- Zero-Shot Robot Manipulation from Passive Human Videos
+
+#### Model Structure and Training Method
+
+##### Decoupling Visual Representation from Action Strategy
+- The surprising effectiveness of representation learning for visual imitation
+- Real-World Robot Learning with Masked Visual Pre-training
+- GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts
+
+##### Multi-task Joint Training
+- Vision-based multi-task manipulation for inexpensive robots using end-to-end learning from demonstration
+- Bc-z: Zero-shot task generalization with robotic imitation learning
+- Mt-opt: Continuous multi-task robotic reinforcement learning at scale
